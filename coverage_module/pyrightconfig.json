@@ -1,0 +1,10 @@
+{
+    "exclude": [
+        "./projects",
+        "./data"
+    ],
+    "include": [
+        "./data/Config.py"
+    ],
+    "typeCheckingMode": "off"
+}

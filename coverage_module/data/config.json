@@ -1,0 +1,19 @@
+{
+    "api_base": "https://api.siliconflow.cn/v1",
+    "api_key": "sk-cciklijjvraenxrspnusdgddkxiraifqawutxehndpjnicfs",
+    "model": "deepseek-ai/DeepSeek-V3.1",
+    "code_base": "/data/WiseUT/coverage_module",
+    "json_res_dir": "/data/WiseUT/coverage_module/data/detailed_res_info",
+    "tmp_test_dir": "/data/WiseUT/coverage_module/data/tmp_test",
+    "expr_identifier": "test_0927",
+    "path_mappings": {
+        "jfreechart": {
+            "loc": "/data/yangchen/project_under_test/jfreechart",
+            "src": "src/main/java",
+            "test": "src/test/java",
+            "test_scale": "method",
+            "focal_method": "/data/WiseUT/coverage_module/data/jfreechart_focal_method.jsonl",
+            "focal_class": "/data/WiseUT/coverage_module/data/jfreechart_focal_class.jsonl"
+        }
+    }
+}
